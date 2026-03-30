@@ -25,12 +25,12 @@ The result is a CS team that operates with the coverage of a digital program and
 
 | # | Workflow | CS Function | Description |
 |---|----------|-------------|-------------|
-| 1 | [Health Score Risk Intervention](workflows/01-health-score-risk-intervention.md) | High-Touch CS | Agent monitors account health, synthesizes risk signals, and drafts personalized outreach for named CSMs |
-| 2 | [Digital Onboarding Orchestrator](workflows/02-digital-onboarding-orchestrator.md) | Digital CS | Agent guides new customers through onboarding milestones with adaptive, behavior-driven engagement |
-| 3 | [Support Ticket Intelligence](workflows/03-support-ticket-intelligence.md) | Support | Agent enriches and triages incoming tickets with full customer context, flags risk, and routes to the right team |
-| 4 | [Training Gap Identifier](workflows/04-training-gap-identifier.md) | Customer Training | Agent analyzes product usage patterns to identify skill gaps and recommend targeted training content |
-| 5 | [Renewal Forecasting & Expansion](workflows/05-renewal-forecasting-expansion.md) | Renewals | Agent builds a rolling renewal risk forecast and surfaces expansion-ready accounts for sales |
-| 6 | [Voice of Customer Aggregator](workflows/06-voice-of-customer-aggregator.md) | Cross-Functional | Agent synthesizes customer sentiment across every touchpoint into a single, actionable account narrative |
+| 1 | [Health Score Risk Intervention](01-health-score-risk-intervention.md) | High-Touch CS | Agent monitors account health, synthesizes risk signals, and drafts personalized outreach for named CSMs |
+| 2 | [Digital Onboarding Orchestrator](02-digital-onboarding-orchestrator.md) | Digital CS | Agent guides new customers through onboarding milestones with adaptive, behavior-driven engagement |
+| 3 | [Support Ticket Intelligence](03-support-ticket-intelligence.md) | Support | Agent enriches and triages incoming tickets with full customer context, flags risk, and routes to the right team |
+| 4 | [Training Gap Identifier](04-training-gap-identifier.md) | Customer Training | Agent analyzes product usage patterns to identify skill gaps and recommend targeted training content |
+| 5 | [Renewal Forecasting & Expansion](05-renewal-forecasting-expansion.md) | Renewals | Agent builds a rolling renewal risk forecast and surfaces expansion-ready accounts for sales |
+| 6 | [Voice of Customer Aggregator](06-voice-of-customer-aggregator.md) | Cross-Functional | Agent synthesizes customer sentiment across every touchpoint into a single, actionable account narrative |
 
 ---
 
